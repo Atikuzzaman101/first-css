@@ -1,0 +1,8 @@
+.blog{
+    border: 10px solid tomato;
+    text-align: justify;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgba(214, 43, 20, 0.696);
+}
